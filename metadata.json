@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page Pendaftaran",
+  "description": "Landing Page Pendaftaran profesional dengan integrasi Google Sheets Webhook dan WhatsApp Floating Action Button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
